@@ -1,0 +1,8 @@
+HUONG DAN XU LY KHI NHIP TIM BAT THUONG (TAI LIEU GIAO DUC SUC KHOE - KHONG THAY THE BAC SI)
+
+1. Nhip tim nghi ngoi binh thuong o nguoi truong thanh: khoang 60–100 BPM.
+2. Nhip tim duoi 50 BPM (bradycardia) khi dang nghi ngoi, kem chong mat, ngat, kho tho: can kham cap. Neu khong co trieu chung va la van dong vien: van nen theo doi dinh ky.
+3. Nhip tim tren 100 BPM khi nghi ngoi (tachycardia): kiem tra caffeine, sot, mat nuoc, cang thang. Neu keo dai > vai phut, dau nguc, kho tho, co that: goi cap cuu hoac den BV ngay.
+4. Nhip tim rat cao (>150 BPM) hoac rat thap (<40 BPM) voi trieu chung: xem la tinh huong can y te khan cap.
+5. Khi do bang cam bien tay / ESP32: ket qua chi mang tinh tham khao; xac dinh chinh xac can do chuyen nghiep (ECG).
+6. Khuyen nghi chung: ngoi yen 5 phut truoc khi do, tranh cafe manh truoc do, ghi nhan trieu chung kem theo de bac si danh gia.
